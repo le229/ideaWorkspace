@@ -1,0 +1,1 @@
+INSERT INTO tab select 1, 'col1' , b , 3+a, fun(zx,c) ， $colInfos.get(0) from dual where $colInfos.get(1) = 'aa'

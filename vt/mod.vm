@@ -1,0 +1,2 @@
+#set( $a = $colInfos.get(0).split("mod"))
+mod($a[0],$a[1])

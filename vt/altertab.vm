@@ -1,0 +1,10 @@
+#set($size = $colInfos.size() - 1)
+Alter table tab_name add (
+#foreach( $colinfo in $colInfos )
+    #if($foreach.index != $size)
+        $colinfo ,
+    #else
+        $colinfo
+    #end
+#end
+)

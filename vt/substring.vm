@@ -1,0 +1,1 @@
+SELECT $colInfos.get(0) FROM EMP;

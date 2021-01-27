@@ -1,0 +1,1 @@
+select sum($colInfos.get(0)) over(order by $colInfos.get(1)) from emp

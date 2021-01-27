@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="commons-io-2.6">
+    <archive path="D:/DevelopSoft/ideaWorkspace/vt/lib/commons-io-2.6.jar" />
+    <archive path="D:/DevelopSoft/ideaWorkspace/vt/lib/commons-lang3-3.9.jar" />
+    <archive path="D:/DevelopSoft/ideaWorkspace/vt/lib/jdom-1.1.3.jar" />
+    <archive path="D:/DevelopSoft/ideaWorkspace/vt/lib/slf4j-api-1.7.30.jar" />
+    <archive path="D:/DevelopSoft/ideaWorkspace/vt/lib/slf4j-simple-1.7.30.jar" />
+    <archive path="D:/DevelopSoft/ideaWorkspace/vt/lib/velocity-engine-core-2.2.jar" />
+    <archive path="D:/DevelopSoft/ideaWorkspace/vt/lib/velocity-engine-examples-2.2.jar" />
+  </library>
+</eclipse-userlibraries>
+
